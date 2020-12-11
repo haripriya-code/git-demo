@@ -1,2 +1,3 @@
 This is my first git file.Today i modified this file to check how git is working
 This file is changed from git hub respository by hp.
+I am editing this file to know the git configuration commands to merge two files.
